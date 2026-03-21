@@ -1,4 +1,4 @@
 # Testing-Repo
 This is my first git repository.
 <br>
-Author- Ritesh Lingwal
+Author- Ritesh Lingwal(Riteshh20)
